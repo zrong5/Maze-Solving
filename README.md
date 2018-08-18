@@ -12,18 +12,30 @@ listed first and the column listed second. A maze of NxM has rows numbered from 
 columns number from 1 to M.
 
 10 20
+
 1 1
+
 10 20
+
 5 1
+
 4 2
+
 3 3
+
 1 10
+
 2 9
 3 8
+
 4 7
+
 5 6
+
 6 5
+
 7 4
+
 8 3
 
 
