@@ -30,15 +30,35 @@ The above input creates the following maze will 11 blocked positions:
 size: 10, 20
 start: 1, 1
 end: 10, 20
+
+The above input creates the following maze will 11 blocked positions:
+size: 10, 20
+start: 1, 1
+end: 10, 20
 **********************
+
 *s........*..........*
+
 *........*...........*
+
 *..*....*............*
+
 *.*....*.............*
+
 **....*..............*
+
 *....*...............*
+
 *...*................*
+
 *..*.................*
+
 *....................*
+
 *...................e*
+
 **********************
+
+The blocked positions and the edges of the above maze are filled in with *'s. The start position is
+filled in with an 's'. The end position in filled in with an 'e'. The other positions are filled in with
+periods. 
