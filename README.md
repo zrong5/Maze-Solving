@@ -26,6 +26,7 @@ columns number from 1 to M.
 1 10
 
 2 9
+
 3 8
 
 4 7
